@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans'!important;
+  font-family: 'Roboto'!important;
 }
 .red {
   background: red;
@@ -24,7 +24,7 @@ a.main-logo {
 .main-logo span {
   font-size: 30px;
   display: inline-block;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
   bottom: 0;
   top: -8px;
@@ -46,6 +46,7 @@ a.main-logo {
 }
 #content h5 {
   margin-top: 30px;
+  font-weight: 300;
 }
 #footer img.download {
   width: 240px;
@@ -53,6 +54,7 @@ a.main-logo {
 }
 #shared h4 {
   margin-top: 30px;
+  font-weight: 300;
   line-height: 1.4;
 }
 @media (max-width: 776px) {

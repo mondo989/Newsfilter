@@ -8,13 +8,14 @@ h4 {
   font-size: 20px;
 }
 .main-nav {
-  background: black;
+  background: #f0f3f8;
 }
 .main-nav img {
   width: 120px;
 }
 .main-nav img.download {
-  min-width: 270px;
+  min-width: 190px;
+  margin-top: 10px;
   height: auto;
 }
 a.main-logo {
@@ -29,7 +30,8 @@ a.main-logo {
   top: -8px;
   height: 100%;
   margin-left: 10px;
-  color: white;
+  color: #353535;
+  opacity: .7;
 }
 #content .separator {
   background: black;
@@ -37,12 +39,12 @@ a.main-logo {
   border-radius: 80%!important;
   height: 2px;
   width: 70%;
-  margin: 50px auto;
+  margin: 30px auto;
 }
 #content img {
   max-width: 240px;
 }
-#content h4 {
+#content h5 {
   margin-top: 30px;
 }
 #footer img.download {
